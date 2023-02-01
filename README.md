@@ -1,7 +1,7 @@
 # Hi there 👋, I am Kelly!
 
 ## 💫 About Me:
-👨‍💻 I’m working as a mobile engineer (specializing on Android)<br>👯 I’m looking to collaborate more on native mobile apps<br>🌱 I’m now learning Android & iOS for mobile development<br>⚡ Starting mobile development 0 from a web developer 
+👨‍💻 I’m working as a mobile application engineer (specializing on Android)<br>👯 I’m looking to collaborate more on native mobile apps<br>🌱 I’m now learning Android & iOS for mobile development<br>⚡ Starting mobile development 0 from a web developer 
 
 ## 🛠️ Tech Stack:
 ### Languages
